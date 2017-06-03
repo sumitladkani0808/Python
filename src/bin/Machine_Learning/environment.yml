@@ -1,0 +1,13 @@
+name: textml
+channels:
+- defaults
+dependencies:
+- python=3.6
+- pytest
+- flask
+- jupyter
+- matplotlib
+- numpy
+- pandas
+- scikit-learn
+- toolz
